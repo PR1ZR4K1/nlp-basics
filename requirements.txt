@@ -1,0 +1,5 @@
+transformers==4.42.3
+requests==2.32.3
+torch==2.2.2
+torchvision==0.17.2
+accelerate==0.31.0
